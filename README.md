@@ -1,17 +1,55 @@
-# React + Vite
+# Elementum
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive React web application built from a Figma design as part of a Frontend Developer Internship Assignment.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://your-vercel-link.vercel.app
 
-## React Compiler
+## Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Elementum is a pixel-perfect implementation of the provided Figma design using React and Vite. The project focuses on clean component architecture, responsiveness, and modern frontend development practices.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# elementum
+* Fully responsive design
+* Reusable React components
+* Modern and clean UI
+* Mobile, tablet, and desktop support
+* Accurate implementation of the provided Figma design
+* Hover interactions and smooth user experience
+
+## Tech Stack
+
+* React
+* Vite
+* CSS
+
+## Installation
+
+```bash
+git clone https://github.com/1nonlyxSatwik/elementum.git
+cd elementum
+npm install
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Assignment Objective
+
+This project was developed to demonstrate:
+
+* React fundamentals
+* Component-based architecture
+* Responsive web design
+* Attention to UI/UX details
+* Clean and maintainable code practices
+
+## Author
+
+Satwik Mani Tripathi
