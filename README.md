@@ -4,7 +4,7 @@ A fully responsive React web application built from a Figma design as part of a 
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+https://elementum-snowy.vercel.app/
 
 ## Overview
 
